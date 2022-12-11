@@ -1,13 +1,13 @@
 # Hola, mi nombre es Máximo Fernández Núñez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=Machine+learning+and+Deep+learning+engineer+Computer+vision+designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=Machine+learning+and+Deep+learning+engineer)](https://git.io/typing-svg)
 
 ![maximofn.com](maximo-0035_new_aspect_ratio_2.jpg)
 
 <!-- YouTube Channel Subscribers -->
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/maximofn?style=social)](https://www.twitch.tv/maximofn/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MaximoFN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MaximoFN/)
 <!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev) -->
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social) -->
