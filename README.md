@@ -13,6 +13,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/maximofn?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/maximofn?style=social)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=bc2a8d&color=white)](https://www.instagram.com/maximo__fn/)
+[![tiktok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=black&color=white)](hhttps://www.tiktok.com/@maximo__fn)
 <!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
 
 +10 años de experiencia 💻
