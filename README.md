@@ -21,7 +21,7 @@
 Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git
 
 ## Tecnologías:
-<!-- [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]() -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 <!-- [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]() -->
 <!-- [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]() -->
 <!-- </br> -->
@@ -41,10 +41,11 @@ Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en r
 <!-- </br> -->
 Y alguna más...
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
 ## Contacto y apoyo:
 
 <!-- [![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com) -->
 
 <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev) -->
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
