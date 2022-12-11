@@ -20,6 +20,8 @@
 +10 años de experiencia 💻
 Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maximofn&show_icons=true&theme=github_dark)
+
 <div align="center">
   <a href="https://github.com/maximofn"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&count_private=true&hide_border=true"/>
