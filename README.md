@@ -20,16 +20,12 @@
 +10 años de experiencia 💻
 Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maximofn&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&layout=compact&langs_count=15&theme=github_dark&hide_border=true)
-
 <div align="center">
   <a href="https://github.com/maximofn"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&layout=compact&langs_count=15&theme=github_dark&hide_border=true" />
   <img href="http://www.github.com/maximofn">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximofn&&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaximoFN&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats" />
 </div>
 
 ## Tecnologías:
