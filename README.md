@@ -1,6 +1,8 @@
 # Hola, mi nombre es Máximo Fernández Núñez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Machine learning & Deep learning engineer. Computer vision designer
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=Machine+learning+&+Deep+learning+engineer.+Computer+vision+designer)](https://git.io/typing-svg)
+
 ![maximofn.com](maximo-0035_new_aspect_ratio_2.jpg)
 
 <!-- YouTube Channel Subscribers -->
