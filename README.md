@@ -20,6 +20,14 @@
 +10 años de experiencia 💻
 Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git
 
+<div align="center">
+  <a href="https://github.com/maximofn"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anunezmartinez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anunezmartinez&layout=compact&langs_count=15&theme=tokyonight&hide_border=true" />
+  <img href="http://www.github.com/anunezmartinez">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anunezmartinez&&theme=tokyonight&hide_border=true"></img>
+</div>
+
 ## Tecnologías:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
