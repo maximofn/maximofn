@@ -6,6 +6,7 @@
 <!-- YouTube Channel Subscribers -->
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/maximofn?style=social)](https://www.twitch.tv/maximofn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MaximoFN/)
 <!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev) -->
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social) -->
