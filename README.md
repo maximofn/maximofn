@@ -3,9 +3,8 @@
 
 ![maximofn.com](maximo-0035_new_aspect_ratio_2.jpg)
 
+<!-- YouTube Channel Subscribers -->
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1)
-
-<a href="https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social"></a>
 
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
