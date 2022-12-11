@@ -22,6 +22,7 @@ Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en r
 
 ## Tecnologías:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logoColor=white&labelColor=101010)
 <!-- [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]() -->
 <!-- [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]() -->
 <!-- </br> -->
