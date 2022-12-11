@@ -22,6 +22,8 @@ Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en r
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maximofn&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&layout=compact&langs_count=15&theme=github_dark&hide_border=true)
+
 <div align="center">
   <a href="https://github.com/maximofn"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&count_private=true&hide_border=true"/>
