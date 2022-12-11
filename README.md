@@ -5,12 +5,12 @@
 
 <!-- YouTube Channel Subscribers -->
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1)
-
-<!-- [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social) -->
+<!-- Twitch Status -->
+[![Twitch Status](https://img.shields.io/twitch/status/maximofn?style=social)](https://www.twitch.tv/maximofn/)
+<!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev) -->
+<!-- ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social) -->
+<!-- ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social) -->
 
 +10 años de experiencia 💻
 Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git
