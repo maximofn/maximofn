@@ -1,7 +1,7 @@
-# Hola, mi nombre es Máximo Fernández Núñez 👋
+# Hola, mi nombre es Máximo Fernández Núñez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Machine learning & Deep learning engineer. Computer vision designer
 
-![maximofn.com](maximo-0035.jpg)
+![maximofn.com](maximo-0035_new_aspect_ratio_2.jpg)
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
