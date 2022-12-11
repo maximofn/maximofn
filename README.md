@@ -21,7 +21,7 @@
 Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git
 
 ## Tecnologías:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 <!-- [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]() -->
 <!-- [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]() -->
 <!-- </br> -->
