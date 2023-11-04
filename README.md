@@ -22,18 +22,27 @@ Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en r
 
 <div align="center">
   <a href="https://github.com/maximofn"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&layout=compact&langs_count=15&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&theme=transparent" />
   <img href="http://www.github.com/maximofn">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximofn&&theme=blueberry_duo&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=maximofn&theme=transparent&date_format=j%20M%5B%20Y%5D" />
 </div>
 
+# Repos interesantes
+<a href="https://github.com/maximofn/alfred" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=alfred&show_owner=true&theme=transparent" /></a>
+
 ## Tecnologías:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3a7aac?style=for-the-badge&logo=python&logoColor=fdd342)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=ef4b28)
+![NumPy](https://img.shields.io/badge/numpy-113140?style=for-the-badge&logo=numpy&logoColor=4e77cf)
+![Pandas](https://img.shields.io/badge/pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1e63ee?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-f05030?style=for-the-badge&logo=git&logoColor=white)
+![linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/$__bash-3e484a?style=for-the-badge&logo=bash&logoColor=white)
+![SSH](https://img.shields.io/badge/ssh-363636?style=for-the-badge&logo=ssh&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-43b02a?style=for-the-badge&logo=conda&logoColor=white)
 
 Y alguna más...
 
