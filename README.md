@@ -29,7 +29,7 @@ Experiencia en el desarrollo de sistemas de inteligencia artificial basadas en r
 </div>
 
 # Repos interesantes
-<a href="https://github.com/maximofn/alfred" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=alfred&show_owner=true&theme=transparent" /></a>
+<a href="https://github.com/maximofn/alfred" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=alfred&show_owner=true&theme=transparent" /></a> <a href="https://github.com/maximofn/gpu_monitor" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=gpu_monitor&show_owner=true&theme=transparent" /></a>
 
 ## Tecnologías:
 ![Python](https://img.shields.io/badge/python-3a7aac?style=for-the-badge&logo=python&logoColor=fdd342)
