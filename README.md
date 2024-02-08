@@ -4,17 +4,21 @@
 
 ![maximofn.com](maximo-0035_new_aspect_ratio_2.jpg)
 
-<!-- YouTube Channel Subscribers -->
+<!-- Social media -->
+[![GitHub](https://img.shields.io/badge/MaximoFN-white?style=social&logo=github&label=github&labelColor=white&color=white)](http://github.com/maximofn)
+[![GitHub Followers](https://img.shields.io/github/followers/maximofn?style=social)](http://github.com/maximofn)
+[![GitHub Followers](https://img.shields.io/github/stars/maximofn?style=social)](http://github.com/maximofn)
+[![LinedIn](https://img.shields.io/badge/MaximoFN-white?style=social&logo=linkedin&label=Linkedin&labelColor=white&color=white)](http://linkedin.com/in/MaximoFN/)
+[![HuggingFace](https://img.shields.io/badge/MaximoFN-white?style=social&label=HugginFace&labelColor=white&color=white)](https://huggingface.co/Maximofn)
+[![X](https://img.shields.io/badge/Maximo_FN-white?style=social&logo=X&labelColor=white&color=white)](https://twitter.com/Maximo_fn)
+[![Kagge](https://img.shields.io/badge/MaximoFN-white?style=social&logo=kaggle&label=kaggle&labelColor=white&color=white)](http://kaggle.com/maximofn)
+[![Youtube](https://img.shields.io/badge/MaximoFN-white?style=social&logo=youtube&label=youtube&labelColor=white&color=white)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1)
+[![Twitch](https://img.shields.io/badge/MaximoFN-white?style=social&logo=twitch&label=twitch&labelColor=white&color=white)](https://www.twitch.tv/maximofn/)
 [![Twitch Status](https://img.shields.io/twitch/status/maximofn?style=social)](https://www.twitch.tv/maximofn/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/MaximoFN/)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=blue&color=white)](https://www.facebook.com/profile.php?id=100085177670661)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Maximo_fn?style=social)](https://twitter.com/Maximo_fn)
-![GitHub Followers](https://img.shields.io/github/followers/maximofn?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/maximofn?style=social)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=bc2a8d&color=white)](https://www.instagram.com/maximo__fn/)
-[![tiktok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=black&color=white)](https://www.tiktok.com/@maximo__fn)
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=blue&color=white)](https://www.kaggle.com/maximofn)
+[![Facebook](https://img.shields.io/badge/Maximo_FN-white?style=social&logo=facebook&label=facebook&labelColor=white&color=white)](https://www.facebook.com/profile.php?id=100085177670661)
+[![Instagram](https://img.shields.io/badge/Maximo__FN-white?style=social&logo=instagram&label=instagram&labelColor=white&color=white)](https://www.instagram.com/maximo__fn/)
+[![tiktok](https://img.shields.io/badge/TikTok-white?style=social&logo=TikTok&label=tiktok&labelColor=white&color=white)](https://www.tiktok.com/@maximo__fn)
 <!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
 
 +10 años de experiencia 💻
