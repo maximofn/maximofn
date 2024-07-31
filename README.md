@@ -25,30 +25,6 @@
 [![tiktok](https://img.shields.io/badge/TikTok-white?style=social&logo=TikTok&label=tiktok&labelColor=white&color=white)](https://www.tiktok.com/@maximo__fn) -->
 <!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
 
-<!-- GitHub Contributions -->
-<img src="https://raw.githubusercontent.com/maximofn/maximofn/output/snake.svg" alt="Snake animation" />
-
-<script
-  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
->
-</script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-  rel="stylesheet"
-  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    new GitHubCalendar(".calendar", "maximofn");
-</script>
-
 <div align="center">
   <a href="https://github.com/maximofn"><img height="300em" src="https://github-profile-trophy.vercel.app/?username=MaximoFN&row=2"/></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"/>
@@ -92,31 +68,3 @@ maximofn@gmail.com
 <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/maximofn) -->
 
 #### You can support my work by making "☆ Star" in the repo. thanks!
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-
-<div id="github-contributions"></div>
-
-<script>
-  const token = 'TU_TOKEN_DE_ACCESO_DE_GITHUB';
-  const username = 'maximofn';
-
-  axios.get(`https://api.github.com/users/${username}/contributions?access_token=${token}`)
-   .then(response => {
-      const contributions = response.data;
-      const contributionsHtml = contributions.map(contribution => {
-        return `<div>${contribution.date} - ${contribution.repo.name}</div>`;
-      }).join('');
-      document.getElementById('github-contributions').innerHTML = contributionsHtml;
-    })
-   .catch(error => {
-      console.error(error);
-    });
-</script>
