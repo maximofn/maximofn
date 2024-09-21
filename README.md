@@ -26,9 +26,7 @@
 <!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
 
 <div align="center">
-  <a href="https://github.com/maximofn"></a>
-  <img height="300em" src="https://github-profile-trophy.vercel.app/?username=MaximoFN&row=2"/>
-
+  <a href="https://github.com/maximofn"><img height="300em" src="https://github-profile-trophy.vercel.app/?username=MaximoFN&row=2"/></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&theme=transparent" />
   <img href="http://www.github.com/maximofn">
