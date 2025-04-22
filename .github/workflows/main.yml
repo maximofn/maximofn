@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate commits history snake
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
