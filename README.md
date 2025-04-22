@@ -8,14 +8,12 @@
 
 
 <!-- Social media -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=maximofn.maximofn&left_text=My%20GitHub%20Visitors&left_color=gray&right_color=)  
-[![GitHub](https://img.shields.io/badge/MaximoFN-white?style=social&logo=github&label=github&labelColor=white&color=white)](http://github.com/maximofn)
-[![GitHub Followers](https://img.shields.io/github/followers/maximofn?style=social)](http://github.com/maximofn)
-[![GitHub Followers](https://img.shields.io/github/stars/maximofn?style=social)](http://github.com/maximofn)  
-[![LinedIn](https://img.shields.io/badge/MaximoFN-white?style=social&logo=linkedin&label=Linkedin&labelColor=white&color=white)](http://linkedin.com/in/MaximoFN/)  
-[![HuggingFace](https://img.shields.io/badge/MaximoFN-white?style=social&logo=Huggingface&label=Huggingface&labelColor=white&color=white)](https://huggingface.co/Maximofn)    
-[![X](https://img.shields.io/badge/Maximo_FN-white?style=social&logo=X&labelColor=white&color=white)](https://twitter.com/Maximo_fn)  
-[![Kagge](https://img.shields.io/badge/MaximoFN-white?style=social&logo=kaggle&label=kaggle&labelColor=white&color=white)](http://kaggle.com/maximofn)  
+[![maximofn.com](https://img.shields.io/badge/MaximoFN.com-2b55bc.svg)](https://www.maximofn.com/)
+[![GitHub](https://img.shields.io/badge/MaximoFN-%23121011.svg?logo=github&logoColor=white)](http://github.com/maximofn)
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/MaximoFN-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/MaximoFN/)
+[![HuggingFace](https://img.shields.io/badge/MaximoFN-6B7280?logo=huggingface)](https://huggingface.co/Maximofn)
+[![X](https://img.shields.io/badge/Maximo__FN-%23000000.svg?logo=X&logoColor=white)](https://x.com/Maximo_fn)
+[![Kagge](https://img.shields.io/badge/MaximoFN-636569.svg?logo=kaggle)](http://kaggle.com/maximofn)  
 <!-- [![Youtube](https://img.shields.io/badge/MaximoFN-white?style=social&logo=youtube&label=youtube&labelColor=white&color=white)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw) -->
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1)   -->
 <!-- [![Twitch](https://img.shields.io/badge/MaximoFN-white?style=social&logo=twitch&label=twitch&labelColor=white&color=white)](https://www.twitch.tv/maximofn/)
