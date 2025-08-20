@@ -23,22 +23,22 @@
 [![tiktok](https://img.shields.io/badge/TikTok-white?style=social&logo=TikTok&label=tiktok&labelColor=white&color=white)](https://www.tiktok.com/@maximo__fn) -->
 <!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/maximofn"><img height="300em" src="https://github-profile-trophy.vercel.app/?username=MaximoFN&row=2"/></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&theme=transparent" />
   <img href="http://www.github.com/maximofn">
   <img src="https://streak-stats.demolab.com?user=maximofn&theme=transparent&date_format=j%20M%5B%20Y%5D" />
-</div>-->
+</div>
 
-<!--# Interesting repositories
+## Interesting repositories
 <a href="https://github.com/maximofn/subtify/" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=subtify&show_owner=true&theme=transparent" /></a>
 
 <a href="https://github.com/maximofn/alfred" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=alfred&show_owner=true&theme=transparent" /></a>
 
-<a href="https://github.com/maximofn/gpu_monitor" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=gpu_monitor&show_owner=true&theme=transparent" /></a>-->
+<a href="https://github.com/maximofn/gpu_monitor" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=gpu_monitor&show_owner=true&theme=transparent" /></a>
 
-# Technologies:
+## Technologies:
 ![Python](https://img.shields.io/badge/python-3a7aac?style=flat&logo=python&logoColor=fdd342)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=ef4b28)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=HuggingFace&logoColor=6B7280)
