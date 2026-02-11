@@ -144,11 +144,7 @@ Production-ready Docker images for state-of-the-art AI models. Just `docker run`
 
 ## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
-</picture>
+![github-snake](https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg)
 
 <details>
 <summary>🎲 Random Facts</summary>
