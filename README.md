@@ -21,6 +21,26 @@ I'm an ML Engineer who turns cutting-edge AI models into **production-ready serv
 
 I also write about AI and ML on [maximofn.com](https://www.maximofn.com/) with **61+ technical posts**, and create courses to help others learn by building. My work sits at the intersection of research and engineering: if a model exists, I want it running in production.
 
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<details>
+<summary>🎲 Random Facts</summary>
+<br>
+
+- I've dockerized more AI models than most people have tried
+- My first "AI project" was a neural network on paper during university — it didn't converge
+- I believe the gap between a Jupyter notebook demo and a production service is where the real engineering happens
+- I speak Spanish and English, but my code only speaks Python
+- Coffee is my optimizer — without it, my learning rate drops to zero
+
+</details>
+
 ## What I'm Working On
 
 - **LangGraph Deep Agents** — Building a course on AI agents with LangGraph for research and automation workflows
@@ -141,26 +161,6 @@ Production-ready Docker images for state-of-the-art AI models. Just `docker run`
 <!-- BLOG-POST-LIST:END -->
 
 **[More posts on maximofn.com →](https://www.maximofn.com/)**
-
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<details>
-<summary>🎲 Random Facts</summary>
-<br>
-
-- I've dockerized more AI models than most people have tried
-- My first "AI project" was a neural network on paper during university — it didn't converge
-- I believe the gap between a Jupyter notebook demo and a production service is where the real engineering happens
-- I speak Spanish and English, but my code only speaks Python
-- Coffee is my optimizer — without it, my learning rate drops to zero
-
-</details>
 
 ---
 
