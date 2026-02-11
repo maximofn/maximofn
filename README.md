@@ -1,3 +1,5 @@
+<img src="maximo-0014-background-removed.png" align="right" width="200" />
+
 # Máximo Fernández Núñez — Making AI Production-Ready
 
 **ML Engineer | Madrid | 12+ years of experience**
