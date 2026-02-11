@@ -1,68 +1,177 @@
-# Hello, my name is Máximo Fernández Núñez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Máximo Fernández Núñez — Making AI Production-Ready
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=Machine+learning+engineer)](https://git.io/typing-svg)
+**ML Engineer | Madrid | 12+ years of experience**
 
-+10 years of experience 💻 in the development of artificial intelligence systems.
+> "The best model is the one running in production."
 
-![maximofn.com](maximo-0035_new_aspect_ratio_2.jpg)
+---
 
+[![Website](https://img.shields.io/badge/maximofn.com-2b55bc?style=flat-square&logo=google-chrome&logoColor=white)](https://www.maximofn.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maximofn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaximoFN/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/Maximofn)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Maximo_fn)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/maximofn)
 
-<!-- Social media -->
-[![maximofn.com](https://img.shields.io/badge/MaximoFN.com-2b55bc.svg)](https://www.maximofn.com/)
-[![GitHub](https://img.shields.io/badge/MaximoFN-%23121011.svg?logo=github&logoColor=white)](http://github.com/maximofn)
-[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/MaximoFN-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/MaximoFN/)
-[![HuggingFace](https://img.shields.io/badge/MaximoFN-6B7280?logo=huggingface)](https://huggingface.co/Maximofn)
-[![X](https://img.shields.io/badge/Maximo__FN-%23000000.svg?logo=X&logoColor=white)](https://x.com/Maximo_fn)
-[![Kagge](https://img.shields.io/badge/MaximoFN-636569.svg?logo=kaggle)](http://kaggle.com/maximofn)  
-<!-- [![Youtube](https://img.shields.io/badge/MaximoFN-white?style=social&logo=youtube&label=youtube&labelColor=white&color=white)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw) -->
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdQwg2JU_fWRsHn3yIlf3tw?style=social)](https://www.youtube.com/channel/UCdQwg2JU_fWRsHn3yIlf3tw?sub_confirmation=1)   -->
-<!-- [![Twitch](https://img.shields.io/badge/MaximoFN-white?style=social&logo=twitch&label=twitch&labelColor=white&color=white)](https://www.twitch.tv/maximofn/)
-[![Twitch Status](https://img.shields.io/twitch/status/maximofn?style=social)](https://www.twitch.tv/maximofn/)  
-[![Facebook](https://img.shields.io/badge/Maximo_FN-white?style=social&logo=facebook&label=facebook&labelColor=white&color=white)](https://www.facebook.com/profile.php?id=100085177670661)  
-[![Instagram](https://img.shields.io/badge/Maximo__FN-white?style=social&logo=instagram&label=instagram&labelColor=white&color=white)](https://www.instagram.com/maximo__fn/)  
-[![tiktok](https://img.shields.io/badge/TikTok-white?style=social&logo=TikTok&label=tiktok&labelColor=white&color=white)](https://www.tiktok.com/@maximo__fn) -->
-<!-- [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord) -->
+---
 
-<div align="center">
-  <a href="https://github.com/maximofn"><img height="300em" src="https://github-profile-trophy.vercel.app/?username=MaximoFN&row=2"/></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximofn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximofn&theme=transparent" />
-  <img href="http://www.github.com/maximofn">
-  <img src="https://streak-stats.demolab.com?user=maximofn&theme=transparent&date_format=j%20M%5B%20Y%5D" />
-</div>
+## About Me
 
-## Interesting repositories
-<a href="https://github.com/maximofn/subtify/" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=subtify&show_owner=true&theme=transparent" /></a>
+I'm an ML Engineer who turns cutting-edge AI models into **production-ready services**. Over **12+ years** I've built a portfolio of **80+ repositories**, including **25+ Docker containers** that package state-of-the-art models — from video generation to voice cloning — so teams can deploy them in minutes, not weeks.
 
-<a href="https://github.com/maximofn/alfred" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=alfred&show_owner=true&theme=transparent" /></a>
+I also write about AI and ML on [maximofn.com](https://www.maximofn.com/) with **61+ technical posts**, and create courses to help others learn by building. My work sits at the intersection of research and engineering: if a model exists, I want it running in production.
 
-<a href="https://github.com/maximofn/gpu_monitor" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maximofn&repo=gpu_monitor&show_owner=true&theme=transparent" /></a>
+## What I'm Working On
 
-## Technologies:
-![Python](https://img.shields.io/badge/python-3a7aac?style=flat&logo=python&logoColor=fdd342)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=ef4b28)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=HuggingFace&logoColor=6B7280)
-![Langchain](https://img.shields.io/badge/Langchain-1c3c3c?style=flat&logo=Langchain&logoColor=f8f7ff)
-![Llamaindex](https://img.shields.io/badge/Llamaindex-362284?style=flat&logo=Llamaindex&logoColor=fea8ee)
-![Ollama](https://img.shields.io/badge/Ollama-262626?style=flat&logo=Ollama&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/Numpy-113140?style=flat&logo=numpy&logoColor=4e77cf)
-![Pandas](https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=Matplotlib&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-1e63ee?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-f05030?style=flat&logo=git&logoColor=white)
-![linux](https://img.shields.io/badge/linux-000000?style=flat&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/$__bash-3e484a?style=flat&logo=bash&logoColor=white)
-![SSH](https://img.shields.io/badge/ssh-363636?style=flat&logo=ssh&logoColor=white)
-![Conda](https://img.shields.io/badge/conda-43b02a?style=flat&logo=conda&logoColor=white)
+- **LangGraph Deep Agents** — Building a course on AI agents with LangGraph for research and automation workflows
+- **Open Cameras Viewer** — Multi-camera viewer for real-time monitoring applications
+- **AI Docker Containers** — Continuously packaging new models (25+ and growing) for instant deployment
+- **MCP Servers** — Exploring Model Context Protocol for durable, production-grade AI integrations
 
-And some more...
+## Featured Projects
 
+### 🐳 AI Docker Containers
 
-## Contact:
+Production-ready Docker images for state-of-the-art AI models. Just `docker run` and go.
 
-[![Email](https://img.shields.io/badge/maximofn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximofn@gmail.com)  
-maximofn@gmail.com
+| Repository | Description | Stars |
+|:-----------|:------------|:-----:|
+| [marker_api_docker](https://github.com/maximofn/marker_api_docker) | Document-to-markdown conversion API | ![Stars](https://img.shields.io/github/stars/maximofn/marker_api_docker?style=flat-square&label=) |
+| [DynamiCrafter_docker](https://github.com/maximofn/DynamiCrafter_docker) | Video generation from images | ![Stars](https://img.shields.io/github/stars/maximofn/DynamiCrafter_docker?style=flat-square&label=) |
+| [idm_vton_docker](https://github.com/maximofn/idm_vton_docker) | Virtual try-on for clothing | ![Stars](https://img.shields.io/github/stars/maximofn/idm_vton_docker?style=flat-square&label=) |
+| [openVoiceV2_docker](https://github.com/maximofn/openVoiceV2_docker) | Voice cloning and TTS | ![Stars](https://img.shields.io/github/stars/maximofn/openVoiceV2_docker?style=flat-square&label=) |
+| [FLUX.1-RealismLora-docker](https://github.com/maximofn/FLUX.1-RealismLora-docker) | Photorealistic image generation | ![Stars](https://img.shields.io/github/stars/maximofn/FLUX.1-RealismLora-docker?style=flat-square&label=) |
 
-<!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/maximofn) -->
+<details>
+<summary>See all 25+ Docker containers</summary>
+<br>
 
-<!--#### You can support my work by making "☆ Star" in the repo. thanks!-->
+| Repository | Description |
+|:-----------|:------------|
+| [sadTalker_docker](https://github.com/maximofn/sadTalker_docker) | Talking head animation |
+| [moondream2_docker](https://github.com/maximofn/moondream2_docker) | Lightweight vision-language model |
+| [FLUX.1-schnell-docker](https://github.com/maximofn/FLUX.1-schnell-docker) | Fast image generation |
+| [flow_edit_docker](https://github.com/maximofn/flow_edit_docker) | Flow-based image editing |
+| [tokenHMR_docker](https://github.com/maximofn/tokenHMR_docker) | Human mesh recovery |
+| [tooncrafter_docker](https://github.com/maximofn/tooncrafter_docker) | Cartoon video generation |
+| [openDevin_docker](https://github.com/maximofn/openDevin_docker) | AI software engineering agent |
+| [brushnet_docker](https://github.com/maximofn/brushnet_docker) | Inpainting with BrushNet |
+| [ml_mgie_docker](https://github.com/maximofn/ml_mgie_docker) | Multimodal image editing |
+| [cosxl_docker](https://github.com/maximofn/cosxl_docker) | SDXL-based image generation |
+| [zeST_docker](https://github.com/maximofn/zeST_docker) | Zero-shot style transfer |
+| [singing_songstarter_docker](https://github.com/maximofn/singing_songstarter_docker) | AI music generation |
+| [ai_jukebox_docker](https://github.com/maximofn/ai_jukebox_docker) | AI-powered jukebox |
+| [idefics_8b_docker](https://github.com/maximofn/idefics_8b_docker) | Multimodal LLM (8B) |
+| [tango2_docker](https://github.com/maximofn/tango2_docker) | Text-to-audio generation |
+| [ranni_docker](https://github.com/maximofn/ranni_docker) | Controllable image generation |
+| [face-to-all-docker](https://github.com/maximofn/face-to-all-docker) | Face transformation pipeline |
+| [voiceCraft_docker](https://github.com/maximofn/voiceCraft_docker) | Voice synthesis and editing |
+| [aniPortrait_docker](https://github.com/maximofn/aniPortrait_docker) | Portrait animation |
+| [coqui_TTS_docker](https://github.com/maximofn/coqui_TTS_docker) | Coqui text-to-speech |
+
+</details>
+
+### 🔧 Tools & Applications
+
+| Repository | Description | Stars |
+|:-----------|:------------|:-----:|
+| [subtify](https://github.com/maximofn/subtify) | AI-powered video subtitle generation | ![Stars](https://img.shields.io/github/stars/maximofn/subtify?style=flat-square&label=) |
+| [alfred](https://github.com/maximofn/alfred) | Terminal assistant powered by AI | ![Stars](https://img.shields.io/github/stars/maximofn/alfred?style=flat-square&label=) |
+| [gpu_monitor](https://github.com/maximofn/gpu_monitor) | GPU monitor for Ubuntu menu bar | ![Stars](https://img.shields.io/github/stars/maximofn/gpu_monitor?style=flat-square&label=) |
+| [open-cameras-viewer](https://github.com/maximofn/open-cameras-viewer) | Multi-camera real-time viewer | ![Stars](https://img.shields.io/github/stars/maximofn/open-cameras-viewer?style=flat-square&label=) |
+| [all_to_markdown](https://github.com/maximofn/all_to_markdown) | Convert documentation to markdown for LLMs | ![Stars](https://img.shields.io/github/stars/maximofn/all_to_markdown?style=flat-square&label=) |
+| [jupyter-translator](https://github.com/maximofn/jupyter-translator) | Multilingual Jupyter notebook translator | ![Stars](https://img.shields.io/github/stars/maximofn/jupyter-translator?style=flat-square&label=) |
+
+### 🎓 Education & Courses
+
+| Repository | Description | Stars |
+|:-----------|:------------|:-----:|
+| [langgraph_deepagents](https://github.com/maximofn/langgraph_deepagents) | Course on AI agents with LangGraph | ![Stars](https://img.shields.io/github/stars/maximofn/langgraph_deepagents?style=flat-square&label=) |
+| [langgraph_deepresearcher](https://github.com/maximofn/langgraph_deepresearcher) | Deep research implementation with LangGraph | ![Stars](https://img.shields.io/github/stars/maximofn/langgraph_deepresearcher?style=flat-square&label=) |
+
+## By the Numbers
+
+- **80+** public repositories
+- **25+** AI Docker containers ready to deploy
+- **61+** technical blog posts on [maximofn.com](https://www.maximofn.com/)
+- **12+** years of software engineering experience
+- **Languages**: Python, Bash, Go, JavaScript
+
+## Tech Stack
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-262626?style=flat-square&logo=ollama&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases & APIs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+
+**AI APIs & Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=flat-square)
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Deep Research con LangGraph](https://www.maximofn.com/deepresearcher/) — Build an AI assistant that researches automatically with LangGraph
+- [MCP Elicitation](https://www.maximofn.com/mcp-elicitation/) — Implementing elicitation in MCP servers with FastMCP and Python
+- [MCP Durability](https://www.maximofn.com/durability-mcp/) — Server and client with persistence for long-running tasks
+<!-- BLOG-POST-LIST:END -->
+
+**[More posts on maximofn.com →](https://www.maximofn.com/)**
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maximofn/maximofn/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<details>
+<summary>🎲 Random Facts</summary>
+<br>
+
+- I've dockerized more AI models than most people have tried
+- My first "AI project" was a neural network on paper during university — it didn't converge
+- I believe the gap between a Jupyter notebook demo and a production service is where the real engineering happens
+- I speak Spanish and English, but my code only speaks Python
+- Coffee is my optimizer — without it, my learning rate drops to zero
+
+</details>
+
+---
+
+## Get in Touch
+
+I'm available for **freelance projects**, **consulting**, and **collaborations** around ML engineering, AI infrastructure, and Docker-based deployments.
+
+[![Email](https://img.shields.io/badge/maximofn@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maximofn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaximoFN/)
+[![Website](https://img.shields.io/badge/maximofn.com-2b55bc?style=flat-square&logo=google-chrome&logoColor=white)](https://www.maximofn.com/)
+
+---
+
+<p align="center">If you find my work useful, consider giving a ⭐ to the repos you like!</p>
