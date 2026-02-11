@@ -1,12 +1,8 @@
-<img src="maximo-0014-background-removed.png" align="right" width="200" />
-
 # Máximo Fernández Núñez — Making AI Production-Ready
 
 **ML Engineer | Madrid | 12+ years of experience**
 
 > "The best model is the one running in production."
-
----
 
 [![Website](https://img.shields.io/badge/maximofn.com-2b55bc?style=flat-square&logo=google-chrome&logoColor=white)](https://www.maximofn.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maximofn)
@@ -14,6 +10,8 @@
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/Maximofn)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Maximo_fn)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/maximofn)
+
+<br clear="right" />
 
 ---
 
