@@ -18,9 +18,9 @@ I build LLM agents that make it into production: architecture, tool design, obse
 
 The last one was the agent behind an inspection assistant for **Spain's national grid operator**. Millions of high-voltage pylon photos with their defects, which technicians had to review tower by tower. Now they query by region and defect type, and repair crews get prioritised from that.
 
-I redesigned it from single intent-to-tool routing into a **multi-step ReAct loop over ~10 tools**, added multi-provider failover, guardrails, step limits, prompt caching and per-user memory, and introduced **LangSmith tracing** — which turned "it doesn't fail for me" into failures we could reproduce exactly, in seconds instead of weeks.
+I redesigned it from single intent-to-tool routing into a **multi-step ReAct loop over ~10 tools**, added multi-provider failover, guardrails, step limits, prompt caching and per-user memory, and introduced **LangSmith tracing**, which turned "it doesn't fail for me" into failures we could reproduce exactly, in seconds instead of weeks.
 
-Before agents, a decade in **computer vision and embedded systems**: perception stacks running on NVIDIA AGX Orin, UAV platforms, PCB and firmware design. That combination — agents plus knowing what it takes to run on real hardware — is where I'm most useful.
+Before agents, a decade in **computer vision and embedded systems**: perception stacks running on NVIDIA AGX Orin, UAV platforms, PCB and firmware design. That combination, agents plus knowing what it takes to run on real hardware, is where I'm most useful.
 
 ## GitHub Activity
 
@@ -34,7 +34,7 @@ Before agents, a decade in **computer vision and embedded systems**: perception 
 
 | Repository | What it is |
 | --- | --- |
-| [**gymnasia**](https://github.com/maximofn/gymnasia) | Fitness app with **two agents running fully on-device, no backend** — user data never leaves the phone. BYOK conversational coach (OpenAI / Anthropic / Google adapters, 12 local tools, streaming tool-use loop) plus a vision sub-agent estimating macros from meal photos. [**Architecture write-up →**](https://gymnasia-sable.vercel.app/) |
+| [**gymnasia**](https://github.com/maximofn/gymnasia) | Fitness app with **two agents running fully on-device, no backend**, user data never leaves the phone. BYOK conversational coach (OpenAI / Anthropic / Google adapters, 12 local tools, streaming tool-use loop) plus a vision sub-agent estimating macros from meal photos. [**Architecture write-up →**](https://gymnasia-sable.vercel.app/) |
 | [**langgraph_deepagents**](https://github.com/maximofn/langgraph_deepagents) | Course on building AI agents with LangGraph for research and automation workflows |
 | [**langgraph_deepresearcher**](https://github.com/maximofn/langgraph_deepresearcher) | Deep research implementation with LangGraph: multi-agent supervisor, researchers and writer |
 | [**alfred**](https://github.com/maximofn/alfred) | Terminal assistant powered by LLMs, for any OS and language |
@@ -42,9 +42,9 @@ Before agents, a decade in **computer vision and embedded systems**: perception 
 
 ## 🎙️ Writing & speaking
 
-- **[Welcome to la secta](https://www.youtube.com/@Welcometolasecta)** — Weekly AI podcast, 800 subscribers, ~500 views per episode. The whole post-production pipeline is automated with generative AI: rendering, YouTube upload, clip and short generation, social distribution, voice cloning and lip-sync.
-- **[maximofn.com](https://www.maximofn.com/)** — 60+ technical posts on AI. Recent: [Deep Research with LangGraph](https://www.maximofn.com/deepresearcher/), [MCP Elicitation](https://www.maximofn.com/mcp-elicitation/), [MCP Durability](https://www.maximofn.com/durability-mcp/).
-- **Talks** — [Tomorrow's Agents: planning, UX and memory](https://www.youtube.com/watch?v=GHYkrxV8EPA) · [Build your own Apple Intelligence](https://www.youtube.com/watch?v=7b4v2tGHPBM)
+- **[Welcome to la secta](https://www.youtube.com/@Welcometolasecta)**, Weekly AI podcast, 800 subscribers, ~500 views per episode. The whole post-production pipeline is automated with generative AI: rendering, YouTube upload, clip and short generation, social distribution, voice cloning and lip-sync.
+- **[maximofn.com](https://www.maximofn.com/)**, 60+ technical posts on AI. Recent: [Deep Research with LangGraph](https://www.maximofn.com/deepresearcher/), [MCP Elicitation](https://www.maximofn.com/mcp-elicitation/), [MCP Durability](https://www.maximofn.com/durability-mcp/).
+- **Talks**, [Tomorrow's Agents: planning, UX and memory](https://www.youtube.com/watch?v=GHYkrxV8EPA) · [Build your own Apple Intelligence](https://www.youtube.com/watch?v=7b4v2tGHPBM)
 
 ## 👁️ Vision & edge
 
@@ -55,7 +55,7 @@ Before agents, a decade in **computer vision and embedded systems**: perception 
 | [**gpu_monitor**](https://github.com/maximofn/gpu_monitor) | GPU monitor for the Ubuntu menu bar (Rust) |
 
 <details>
-<summary><b>🐳 25+ AI Docker containers</b> — state-of-the-art models packaged to <code>docker run</code> and go</summary>
+<summary><b>🐳 25+ AI Docker containers</b>, state-of-the-art models packaged to <code>docker run</code> and go</summary>
 
 Video generation, voice cloning, image editing, VLMs, TTS, human mesh recovery and more. Built so a broken or deleted Hugging Face Space never blocks anyone.
 
