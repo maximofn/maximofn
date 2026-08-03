@@ -18,9 +18,9 @@ I build LLM agents that make it into production: architecture, tool design, obse
 
 The last one was the agent behind an inspection assistant for **Spain's national grid operator**. Millions of high-voltage pylon photos with their defects, which technicians had to review tower by tower. Now they query by region and defect type, and repair crews get prioritised from that.
 
-I redesigned it from single intent-to-tool routing into a **multi-step ReAct loop over ~10 tools**, added multi-provider failover, guardrails, step limits, prompt caching and per-user memory, and introduced **LangSmith tracing**, which turned "it doesn't fail for me" into failures we could reproduce exactly, in seconds instead of weeks.
+I redesigned it from single intent-to-tool routing into a **multi-step ReAct loop over ~10 tools**, added multi-provider failover, guardrails, step limits, prompt caching and per-user memory, and introduced **LangSmith tracing** — which turned "it doesn't fail for me" into failures we could reproduce exactly, in seconds instead of weeks.
 
-Before agents, a decade in **computer vision and embedded systems**: perception stacks running on NVIDIA AGX Orin, UAV platforms, PCB and firmware design. That combination, agents plus knowing what it takes to run on real hardware, is where I'm most useful.
+Before agents, a decade in **computer vision and embedded systems**: perception stacks running on NVIDIA AGX Orin, UAV platforms, PCB and firmware design. That combination — agents plus knowing what it takes to run on real hardware — is where I'm most useful.
 
 ## GitHub Activity
 
@@ -34,28 +34,28 @@ Before agents, a decade in **computer vision and embedded systems**: perception 
 
 | Repository | What it is |
 | --- | --- |
-| [**gymnasia**](https://github.com/maximofn/gymnasia) | Fitness app with **two agents running fully on-device, no backend**, user data never leaves the phone. BYOK conversational coach (OpenAI / Anthropic / Google adapters, 12 local tools, streaming tool-use loop) plus a vision sub-agent estimating macros from meal photos. [**Architecture write-up →**](https://gymnasia-sable.vercel.app/) |
-| [**langgraph_deepagents**](https://github.com/maximofn/langgraph_deepagents) | Course on building AI agents with LangGraph for research and automation workflows |
-| [**langgraph_deepresearcher**](https://github.com/maximofn/langgraph_deepresearcher) | Deep research implementation with LangGraph: multi-agent supervisor, researchers and writer |
+| [**gymnasia**](https://github.com/maximofn/gymnasia) | Fitness app with **two agents running fully on-device, no backend** — user data never leaves the phone. BYOK conversational coach (OpenAI / Anthropic / Google adapters, 12 local tools, streaming tool-use loop) plus a vision sub-agent estimating macros from meal photos. [**Architecture write-up →**](https://gymnasia-sable.vercel.app/) |
+| [**langgraph_deepresearcher**](https://github.com/maximofn/langgraph_deepresearcher) | Deep research implementation with LangGraph: multi-agent supervisor, researchers and writer. [**Try it →**](https://deepresearcher.maximofn.com/) |
 | [**alfred**](https://github.com/maximofn/alfred) | Terminal assistant powered by LLMs, for any OS and language |
 | [**all_to_markdown**](https://github.com/maximofn/all_to_markdown) | Convert any documentation into markdown for LLM consumption |
 
 ## 🎙️ Writing & speaking
 
-- **[Welcome to la secta](https://www.youtube.com/@Welcometolasecta)**, Weekly AI podcast, 800 subscribers, ~500 views per episode. The whole post-production pipeline is automated with generative AI: rendering, YouTube upload, clip and short generation, social distribution, voice cloning and lip-sync.
-- **[maximofn.com](https://www.maximofn.com/)**, 60+ technical posts on AI. Recent: [Deep Research with LangGraph](https://www.maximofn.com/deepresearcher/), [MCP Elicitation](https://www.maximofn.com/mcp-elicitation/), [MCP Durability](https://www.maximofn.com/durability-mcp/).
-- **Talks**, [Tomorrow's Agents: planning, UX and memory](https://www.youtube.com/watch?v=GHYkrxV8EPA) · [Build your own Apple Intelligence](https://www.youtube.com/watch?v=7b4v2tGHPBM)
+- **[Welcome to la secta](https://www.youtube.com/@Welcometolasecta)** — Weekly AI podcast, 800 subscribers, ~500 views per episode. The whole post-production pipeline is automated with generative AI: rendering, YouTube upload, clip and short generation, social distribution, voice cloning and lip-sync.
+- **[maximofn.com](https://www.maximofn.com/)** — 60+ technical posts on AI. Recent: [Deep Research with LangGraph](https://www.maximofn.com/deepresearcher/), [MCP Elicitation](https://www.maximofn.com/mcp-elicitation/), [MCP Durability](https://www.maximofn.com/durability-mcp/).
+- **Talks** — [Tomorrow's Agents: planning, UX and memory](https://www.youtube.com/watch?v=GHYkrxV8EPA) · [Build your own Apple Intelligence](https://www.youtube.com/watch?v=7b4v2tGHPBM)
 
-## 👁️ Vision & edge
+## ⚙️ Systems & tooling
 
 | Repository | What it is |
 | --- | --- |
-| [**subtify**](https://github.com/maximofn/subtify) | AI-powered video subtitle generation |
-| [**open-cameras-viewer**](https://github.com/maximofn/open-cameras-viewer) | Multi-camera viewer for real-time monitoring |
-| [**gpu_monitor**](https://github.com/maximofn/gpu_monitor) | GPU monitor for the Ubuntu menu bar (Rust) |
+| [**gpu_monitor**](https://github.com/maximofn/gpu_monitor) | Real-time NVIDIA GPU monitor for Linux and macOS. Rust workspace splitting an NVML sampling daemon (HTTP + SSE API) from the tray frontends, so any machine on the LAN can consume the same metrics. Rewriting it from Python cut memory from 181 MB to ~24 MB and CPU from 176% to ~1.6% on the same two RTX 3090s. Includes a native Swift menubar app and a Home Assistant integration. |
+| [**all_to_markdown**](https://github.com/maximofn/all_to_markdown) | LLM-driven crawler that walks documentation sites and converts every page — plus PDFs, YouTube videos and Office files — into markdown for LLM consumption |
+| [**subtify**](https://github.com/maximofn/subtify) | Multilingual subtitle generation for YouTube and Twitch video, with per-speaker colour coding: vocal separation, transcription, translation and burn-in |
+| [**open-cameras-viewer**](https://github.com/maximofn/open-cameras-viewer) | Multi-camera RTSP viewer over go2rtc, with persisted layout preferences |
 
 <details>
-<summary><b>🐳 25+ AI Docker containers</b>, state-of-the-art models packaged to <code>docker run</code> and go</summary>
+<summary><b>🐳 25+ AI Docker containers</b> — state-of-the-art models packaged to <code>docker run</code> and go</summary>
 
 Video generation, voice cloning, image editing, VLMs, TTS, human mesh recovery and more. Built so a broken or deleted Hugging Face Space never blocks anyone.
 
