@@ -36,7 +36,7 @@ Before agents, a decade in **computer vision and embedded systems**: perception 
 | --- | --- |
 | [**gymnasia**](https://github.com/maximofn/gymnasia) | Fitness app with **two agents running fully on-device, no backend**, user data never leaves the phone. BYOK conversational coach (OpenAI / Anthropic / Google adapters, 12 local tools, streaming tool-use loop) plus a vision sub-agent estimating macros from meal photos. [**Architecture write-up →**](https://gymnasia-sable.vercel.app/) |
 | [**langgraph_deepresearcher**](https://github.com/maximofn/langgraph_deepresearcher) | Deep research implementation with LangGraph: multi-agent supervisor, researchers and writer. [**Try it →**](https://deepresearcher.maximofn.com/) |
-| [**alfred**](https://github.com/maximofn/alfred) | Terminal assistant powered by LLMs, for any OS and language |
+| [**alfred**](https://github.com/maximofn/alfred) | Terminal assistant with a propose → approve → execute loop: it drafts a shell command, shows it, waits for confirmation and runs it. Built in February 2023 on text-davinci-003, before the gpt-3.5-turbo API existed — the same human-in-the-loop pattern today's coding agents use |
 | [**all_to_markdown**](https://github.com/maximofn/all_to_markdown) | Convert any documentation into markdown for LLM consumption |
 
 ## 🎙️ Writing & speaking
